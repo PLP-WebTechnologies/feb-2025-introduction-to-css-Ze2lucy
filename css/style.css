@@ -1,0 +1,29 @@
+body {
+  background-color: blanchedalmond;
+}
+.container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  color: #333;
+}
+
+img {
+  margin: auto;
+  display: block;
+  margin-top: 20px;
+  padding: 60px 20px;
+  border-radius: 50%;
+}
+p {
+  font-size: 18px;
+  line-height: 15px;
+  font-family: cursive;
+  text-align: center;
+}
+footer {
+  text-decoration: none;
+}
+footer:hover {
+  text-decoration: underline;
+}
